@@ -47,4 +47,3 @@ INSERT INTO sightings (ranger_id, species_id, location, sighting_time, notes) VA
 (1, 2, 'Snowfall Pass', '2024-05-18 18:30:00', NULL)
 
 
-SELECT * FROM sightings;
